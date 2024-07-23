@@ -14,6 +14,8 @@ __copy script below & Paste Into Your Executor :)__
  ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Bladesifyyy/BladeLua.main/Updates/BladeLuaV1", true))() 
 ```
+![image alt](https://cdn.discordapp.com/attachments/1163899444606009345/1265398030442565663/IMG_0883_1.png?ex=66a15d40&is=66a00bc0&hm=fa4de30540af783a286dac99784eef4be40403e156840d72f0b5b79b828b9d31&)
+
 # ╰┈➤   :𝑼𝒑𝒅𝒂𝒕𝒆𝒔
 # 1. Wokring Aimbot ✅
 # 2. Fixed Offsets ✅
