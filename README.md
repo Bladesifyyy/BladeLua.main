@@ -7,7 +7,6 @@
 </div>
 <div>&nbsp;</div>
 
-## ⚔️ Introduction
 # 📌 Latest release
 Runs the latest release build of BladeLua.
 
